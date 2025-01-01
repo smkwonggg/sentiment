@@ -11,18 +11,7 @@ sia = SentimentIntensityAnalyzer()
 
 # Example sentences to analyze
 sentences = [
-    "YAY I MADE IT I AM SO NICE YES YES SO HAPPY EXCITING!!! I WON! I AM THE BEST!! i LOVE THE WORLD!!"
-    "I don’t know why I am going back hku now bruh",
-    "Fuck it I wasted whole afternoon",
-    "Where’s my girlfriend",
-    "I feel loved when I with Sabina",
-    "I hope someone come approach me",
-    "A girl gave me chocolate in library",
-    "This Christmas I’m going to Japan with girlfriend",
-    "Omg a girl is approaching me",
-    "Why urban studies so many things do",
-    "When can I take some rest",
-    "fuck my life I must die I must die immediately die die die die DEATHDEATHDEATHDEATH"
+    "I hope someone come approach me"
 ]
 
 # Analyze sentiment scores
