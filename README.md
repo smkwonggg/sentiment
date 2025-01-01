@@ -1,3 +1,5 @@
+***discord bot tokens are outdated for safety purpose***
+
 i learn with sentiment.py (tho modified some on my own) from google
 then i put marco customization stuff, with the use of cuhk ai, to give other files
 
